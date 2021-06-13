@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_screen"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="8dp"
+        android:id="@+id/rvListFolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:layout_margin="16dp"
+    android:layout_gravity="bottom|right"
+    android:src="@drawable/ic_add"
+    android:tint="@color/colorPrimaryDark"
+    android:id="@+id/btAdd"/>
+
+    </FrameLayout>
+
+</LinearLayout>

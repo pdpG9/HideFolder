@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TUIT TODO</string>
+    <string name="description_login">Tizimga kirish uchun KIRISH tugmasini bosing.Agar siz aval ro`yxatdan o`tmagan bo`lsangiz google orqali ro`yxatdan o`ting!</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471527569781",
+    "project_id": "diplom-ishi-1e3ae",
+    "storage_bucket": "diplom-ishi-1e3ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471527569781:android:43f1cb832fe957b5f73b3c",
+        "android_client_info": {
+          "package_name": "com.example.hidefolder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471527569781-de7urrhv8adnm42gq4a0eujmnee1usnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hidefolder",
+            "certificate_hash": "67938b791f01e296b2b72b3c84be5f25451fcc7a"
+          }
+        },
+        {
+          "client_id": "471527569781-fstgonnjlelib7ph15m8ptvvi922skik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxTU4dNZe9qyCmMpRuBqbg4zdRp-s7XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471527569781-fstgonnjlelib7ph15m8ptvvi922skik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
